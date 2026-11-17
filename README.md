@@ -462,6 +462,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CSM](https://github.com/sanyambassi/thales-cdsp-csm-mcp-server) - MCP server for Thales CipherTrust Secrets Management
 
 <br />
+- [NullClear Arbiter](https://github.com/Nullclear-Protocol/nullclear) - Zero-key EVM/Solana token & contract forensics, bytecode selector disassembly, calldata/revert decoder, pre-flight tx simulator, and non-custodial x402 deferred schema-escrow clearinghouse.
 
 ## 🔌 <a name="iot"></a>IoT
 
